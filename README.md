@@ -22,6 +22,7 @@ Kontakt 5|[vst-4e694f35](https://github.com/jhorology/KompletePack4Bitwig/tree/m
 ||||[New York Concert Grand](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/New%20York%20Concert%20Grand)|
 ||||[Retro Machines Mk2](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Retro%20Machines%20Mk2)|
 ||||[Scarbee Funk Guitarist](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Scarbee%20Funk%20Guitarist)|
+||||[Session Horns](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Session%20Horns)|
 ||||[Session Strings Pro](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Session%20Strings%20Pro)|
 ||||[Studio Drummer](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Studio%20Drummer)|
 ||||[Upright Piano](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Upright%20Piano)|
