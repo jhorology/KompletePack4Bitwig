@@ -17,6 +17,7 @@ Kontakt 5|[vst-4e694f35](https://github.com/jhorology/KompletePack4Bitwig/tree/m
 ||||[Action Strings](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Action%20Strings)|
 ||||[Alicia's Keys](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Alicia's%20Keys)|
 ||||[Berlin Concert Grand](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Berlin%20Concert%20Grand)|
+||||[Damage](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Damage)|
 ||||[Evolve R2](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Evolve%20R2)|
 ||||[George Duke Soul Treasures](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/George%20Duke%20Soul%20Treasures)|
 ||||[New York Concert Grand](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/New%20York%20Concert%20Grand)|
