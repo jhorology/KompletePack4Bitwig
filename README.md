@@ -16,6 +16,7 @@ Kontakt 5|[vst-4e694f35](https://github.com/jhorology/KompletePack4Bitwig/tree/m
 ||||[Abbey Road Vintage Drummer](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Abbey%20Road%20Vintage%20Drummer)|
 ||||[Action Strings](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Action%20Strings)|
 ||||[Alicia's Keys](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Alicia's%20Keys)|
+||||[Balinese Gamelan](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Balinese%20Gamelan)|
 ||||[Berlin Concert Grand](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Berlin%20Concert%20Grand)|
 ||||[Damage](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Damage)|
 ||||[Evolve R2](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Evolve%20R2)|
