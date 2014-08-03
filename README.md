@@ -32,6 +32,7 @@ Kontakt 5|[vst-4e694f35](https://github.com/jhorology/KompletePack4Bitwig/tree/m
 ||||[Session Horns](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Session%20Horns)|
 ||||[Session Strings Pro](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Session%20Strings%20Pro)|
 ||||[Studio Drummer](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Studio%20Drummer)|
+||||[The Giant](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/The%20Giant)|
 ||||[Upright Piano](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Upright%20Piano)|
 ||||[Vienna Concert Grand](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Vienna%20Concert%20Grand)|
 ||||[Vintage Organs](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Vintage%20Organs)|
