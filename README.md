@@ -9,7 +9,12 @@ Device|Auto Mappings|Presets||
 :---|:---|:---|:---|
 Massive|[vst-4e694d61](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Auto%20Mappings/vst-4e694d61)|[Massive](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Massive)||
 Battery 4| - |[Battery 4](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Battery%204)||
-Kontakt 5|[vst-4e694f35](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Auto%20Mappings/vst-4e694f35)|[Kontakt 5](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205)|[Alicia's Keys](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Alicia's%20Keys)|
+Kontakt 5|[vst-4e694f35](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Auto%20Mappings/vst-4e694f35)|[Kontakt 5](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205)|[Abbey Road 60s Drummer](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Abbey%20Road%2060s%20Drummer)|
+||||[Abbey Road 70s Drummer](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Abbey%20Road%2070s%20Drummer)|
+||||[Abbey Road 80s Drummer](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Abbey%20Road%2080s%20Drummer)|
+||||[Abbey Road Modern Drummer](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Abbey%20Road%20Modern%20Drummer)|
+||||[Abbey Road Vintage Drummer](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Abbey%20Road%20Vintage%20Drummer)|
+||||[Alicia's Keys](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Alicia's%20Keys)|
 ||||[Berlin Concert Grand](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Berlin%20Concert%20Grand)|
 ||||[Evolve R2](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Evolve%20R2)|
 ||||[George Duke Soul Treasures](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/George%20Duke%20Soul%20Treasures)|
