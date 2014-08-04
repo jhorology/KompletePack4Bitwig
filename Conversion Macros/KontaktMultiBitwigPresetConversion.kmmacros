@@ -74,7 +74,7 @@
 								<key>RestoreMouseLocation</key>
 								<true/>
 								<key>VerticalPositionExpression</key>
-								<string>146</string>
+								<string>110</string>
 							</dict>
 							<dict>
 								<key>IsActive</key>
@@ -416,7 +416,7 @@
 								<key>RestoreMouseLocation</key>
 								<true/>
 								<key>VerticalPositionExpression</key>
-								<string>146</string>
+								<string>110</string>
 							</dict>
 							<dict>
 								<key>IsActive</key>
@@ -426,7 +426,7 @@
 								<key>MacroActionType</key>
 								<string>Pause</string>
 								<key>Time</key>
-								<string>2</string>
+								<string>5</string>
 								<key>TimeOutAbortsMacro</key>
 								<true/>
 							</dict>
@@ -460,16 +460,16 @@
 				<key>IsActive</key>
 				<true/>
 				<key>ModificationDate</key>
-				<real>428882549.93061203</real>
+				<real>428882524.691329</real>
 				<key>Name</key>
-				<string>KontaktBitwigPresetConversion</string>
+				<string>KontaktMultiBitwigPresetConversion</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
 						<key>FireType</key>
 						<string>Pressed</string>
 						<key>KeyCode</key>
-						<integer>32767</integer>
+						<integer>122</integer>
 						<key>MacroTriggerType</key>
 						<string>HotKey</string>
 						<key>Modifiers</key>
@@ -477,7 +477,7 @@
 					</dict>
 				</array>
 				<key>UID</key>
-				<string>1F526BAC-CB64-44E3-9DA8-B95EEC36E4EB</string>
+				<string>92BE992B-81BD-41A1-9F86-B9F2A2B2F156</string>
 			</dict>
 		</array>
 		<key>UID</key>
