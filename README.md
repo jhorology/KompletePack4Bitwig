@@ -21,6 +21,7 @@ Kontakt 5|[vst-4e694f35](https://github.com/jhorology/KompletePack4Bitwig/tree/m
 ||||[Damage](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Damage)|
 ||||[DrumMic'a!](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/DrumMic'a!)|
 ||||[Evolve Mutations](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Evolve%20Mutations)|
+||||[Evolve Mutations 2](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Evolve%20Mutations%202)|
 ||||[Evolve R2](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Evolve%20R2)|
 ||||[George Duke Soul Treasures](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/George%20Duke%20Soul%20Treasures)|
 ||||[Kontakt Factory Library](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Kontakt%20Factory%20Library)|
