@@ -23,6 +23,7 @@ Kontakt 5|[vst-4e694f35](https://github.com/jhorology/KompletePack4Bitwig/tree/m
 ||||[Evolve R2](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Evolve%20R2)|
 ||||[George Duke Soul Treasures](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/George%20Duke%20Soul%20Treasures)|
 ||||[Kontakt Factory Library](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Kontakt%20Factory%20Library)|
+||||[Maschine Drum Selection](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Maschine%20Drum%20Selection)|
 ||||[New York Concert Grand](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/New%20York%20Concert%20Grand)|
 ||||[Retro Machines Mk2](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Retro%20Machines%20Mk2)|
 ||||[Scarbee Funk Guitarist](https://github.com/jhorology/KompletePack4Bitwig/tree/master/Presets/Kontakt%205/Scarbee%20Funk%20Guitarist)|
