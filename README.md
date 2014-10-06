@@ -1,6 +1,6 @@
 Komplete 9 Ultimate Pack for Bitwig Studio
 ================
-
+**This repository has bean dicontinued. I will delete this repository in the near feuture.**
 Native Instruments Komplete 9 Ultimate factory presets and device panel mapping for Bitwig Studio.
 
 ## Status
